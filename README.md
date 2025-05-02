@@ -18,6 +18,8 @@ I'm a passionate full-stack developer and tech enthusiast with a diverse skill s
 ### Frameworks & Technologies
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React + Bootstrap](https://img.shields.io/badge/React_+_Bootstrap-7952B3?style=for-the-badge&logo=react&logoColor=white)
+![React + Tailwind CSS](https://img.shields.io/badge/React_+_Tailwind-38B2AC?style=for-the-badge&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
